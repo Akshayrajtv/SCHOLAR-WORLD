@@ -1,6 +1,6 @@
 # brute_force_army
 
-A new Flutter project.
+Demo Flutter Application that can search and filter different scholarships available for students.
 
 ## Getting Started
 
